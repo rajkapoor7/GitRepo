@@ -7,7 +7,7 @@ public class Newjenkinscode {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Raj sample GitCode");
+		System.out.println("Raj sample GitCode Check");
 
 	}
 
